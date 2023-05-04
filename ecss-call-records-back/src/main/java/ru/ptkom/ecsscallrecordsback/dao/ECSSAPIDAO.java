@@ -39,11 +39,11 @@ public class ECSSAPIDAO {
 
 
     private static String TOKEN = "empty";
-    private static String LOGIN = "aosunitskii";
-    private static String PASSWORD = "321qWe98_";
-    private String ADDRESS = "10.60.0.114";
-    private String URL = "https://10.60.0.114:9999";
-    private String DOMAIN_NAME = "voip.ptk.loc";
+    private static String LOGIN = "";
+    private static String PASSWORD = "";
+    private String ADDRESS = "";
+    private String URL = "";
+    private String DOMAIN_NAME = "";
     private final String CALL_HISTORY_SUFFIX = "/commands/calls_history";
     private final String LOGIN_SUFFIX = "/system/login";
     private final static String AUTH_REQUEST_CONST = "<in><login user = \"%s\" password=\"%s\" /></in>";
